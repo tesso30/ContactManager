@@ -29,7 +29,7 @@ A simple console-based Contact Management System in Java. This application allow
 
 1. **Clone the repository:**
 
-    git clone https: https://github.com/tesso30/PRODIGY_SD_03
+    git clone https: https://github.com/tesso30/ContactManager
 
 2. **Open the project in your preferred IDE.**
 
